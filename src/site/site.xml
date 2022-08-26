@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+
+    Copyright (c) 2022, salesforce.com, inc.
+    All rights reserved.
+    Licensed under the BSD 3-Clause license.
+    For full license text, see LICENSE.txt file in the repo root or https://opensource.org/licenses/BSD-3-Clause
+
+-->
+<project name="${project.name}" xmlns="http://maven.apache.org/DECORATION/1.8.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/DECORATION/1.8.0 http://maven.apache.org/xsd/decoration-1.8.0.xsd">
+    <bannerLeft>
+        <src>/images/hazendaz-banner.jpg</src>
+        <href>https://github.com/hazendaz</href>
+    </bannerLeft>
+    <bannerRight>
+        <src>/images/hazendaz.png</src>
+        <href>https://github.com/hazendaz</href>
+    </bannerRight>
+    <skin>
+        <groupId>org.apache.maven.skins</groupId>
+        <artifactId>maven-fluido-skin</artifactId>
+        <version>1.11.1</version>
+    </skin>
+    <custom>
+        <fluidoSkin>
+            <topBarEnabled>true</topBarEnabled>
+            <sideBarEnabled>true</sideBarEnabled>
+        </fluidoSkin>
+    </custom>
+    <body>
+        <links>
+            <item name="Hazendaz" href="https://github.com/hazendaz" />
+        </links>
+        <menu ref="reports" />
+    </body>
+</project>
