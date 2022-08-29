@@ -19,7 +19,7 @@
 
     <groupId>com.github.hazendaz.sfdx</groupId>
     <artifactId>sfdx</artifactId>
-    <version>7.165.0.0</version>
+    <version>7.165.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>sfdx</name>
@@ -38,7 +38,7 @@
         <connection>scm:git:ssh://git@github.com/hazendaz/sfdx.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/hazendaz/sfdx.git</developerConnection>
         <url>https://github.com/hazendaz/sfdx</url>
-        <tag>sfdx-7.165.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
     <distributionManagement>
         <site>
