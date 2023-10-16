@@ -20,7 +20,7 @@
 
     <groupId>com.github.hazendaz.sfdx</groupId>
     <artifactId>sfdx</artifactId>
-    <version>7.203.6.1-SNAPSHOT</version>
+    <version>7.209.6.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>sfdx</name>
@@ -50,7 +50,7 @@
     </distributionManagement>
 
     <properties>
-        <sfdx.version>7.203.6</sfdx.version>
+        <sfdx.version>7.209.6</sfdx.version>
         <download-plugin.version>1.7.1</download-plugin.version>
     </properties>
 
