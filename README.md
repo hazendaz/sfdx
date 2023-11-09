@@ -26,6 +26,6 @@ To utilize windows bundle in this, install it to windows from https://developer.
 
 # Retired #
 
-Salesforce has retired SFDX and we have released final version.  See https://developer.salesforce.com/blogs/2023/07/salesforce-cli-sf-v2-is-here?utm_campaign=6022ddc6c50e6f0001358775&utm_content=64b6b3c67c10d400015b4588&utm_medium=smarpshare&utm_source=linkedin
+Salesforce has retired SFDX and we have released final version.  See [sfdx retired](https://developer.salesforce.com/blogs/2023/07/salesforce-cli-sf-v2-is-here)
 
 A continuation of this will be against SF(v2) as noted on a new repo in near future.
