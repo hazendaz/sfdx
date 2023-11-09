@@ -23,3 +23,9 @@ Maven based storage of distribution in common location to offer more secure down
 # Windows #
 
 To utilize windows bundle in this, install it to windows from https://developer.salesforce.com/tools/sfdxcli# using 64-bit copy.  The build then points to the expected default windows location of c:\Program Files\sfdx\client
+
+# Retired #
+
+Salesforce has retired SFDX and we have released final version.  See https://developer.salesforce.com/blogs/2023/07/salesforce-cli-sf-v2-is-here?utm_campaign=6022ddc6c50e6f0001358775&utm_content=64b6b3c67c10d400015b4588&utm_medium=smarpshare&utm_source=linkedin
+
+A continuation of this will be against SF(v2) as noted on a new repo in near future.
